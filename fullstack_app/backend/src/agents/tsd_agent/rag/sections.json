@@ -1,0 +1,7 @@
+[
+  {"name": "Introduction", "style": "paragraph"},
+  {"name": "System Overview", "style": "paragraph"},
+  {"name": "Data Model", "style": "table"},
+  {"name": "Process Flow", "style": "paragraph"},
+  {"name": "Conclusion", "style": "paragraph"}
+]
